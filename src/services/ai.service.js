@@ -29,9 +29,9 @@ Requirements:
 Example:
 [
   "Arijit Singh",
-  "Taylor Swift",
+  "Badshah",
   "AP Dhillon",
-  "Drake"
+  "The Weeknd",
 ]
 `             }
             ]
